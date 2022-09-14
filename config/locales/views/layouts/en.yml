@@ -1,13 +1,13 @@
 en:
   layouts:
     header:
-      brand: "Cybros Core"
+      brand: "HDP"
       account_menu:
         admin: "Administration"
         profile: "Edit Profile"
         sign_out: "Sign Out"
     footer:
-      copyright: "© 2019 Jasl, MIT license"
+      copyright: "© 2022 HDP"
     sidebar:
       application:
         home: "Home"
