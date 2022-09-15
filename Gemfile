@@ -5,7 +5,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 #ruby ">= 2.7"
 
-gem "rails", "~> 7.0.3.1"
+gem "rails", "7.0.4"
 gem "rails-i18n"
 
 # Use postgresql as the database for Active Record
