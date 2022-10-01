@@ -1,12 +1,12 @@
 ---
 seo_meta:
-  name: Cybros Core
-  description: Cybros Core
+  name: Cybros Coreaaaa
+  description: Cybros Coreaa
   keywords: []
 
-# url_options:
-#  host: 0.0.0.0:3000
-#  protocol: http
+url_options:
+  host: 0.0.0.0
+  protocol: http
 
 admin:
   emails: []
